@@ -1,6 +1,5 @@
 # Testing MyBinder
 
-This is my sample repository with a few sample Jupyter notebooks to test MyBinder integration
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pokrovskyy/sample-notebooks/master)
 
-MyBinder link:
-[https://hub.gke.mybinder.org/user/pokrovskyy-sample-notebooks-lvowaksk/tree](https://hub.gke.mybinder.org/user/pokrovskyy-sample-notebooks-lvowaksk/tree)
+This is my sample repository with a few sample Jupyter notebooks to test MyBinder integration
